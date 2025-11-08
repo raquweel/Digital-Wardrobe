@@ -2,7 +2,7 @@ body {
     margin: 0;
     margin-top: 30px;
     height: 100%;
-    background-color:rgb(124, 212, 42);
+    background-color:#F2766B;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -37,30 +37,30 @@ body {
 button {
     font-size: 1rem;
     color: white;
-    background-color:#ec6b37;
+    background-color: #F2CB05;
     padding: 5px 15px;
     cursor: pointer;
     border-color: transparent;
 }
 
 button:hover {
-    background-color: #d90166;
+    background-color: #df6896;
 }
 
 .carousel-buttons {
     display: flex;
     justify-content: center;
     gap: 4px;
-    margin-top: 5px;
+    margin-top: 10px;
 }
 
 .random-button {
-    background-color: #d90166;
+    background-color: #729DF2;
     margin-bottom: 10px;
     padding: 10px 20px;
     font-size: 1rem;
     cursor: pointer;
 }
 .random-button:hover {
-    background-color: #ec6b37;
+    background-color: #df6896;
 }
